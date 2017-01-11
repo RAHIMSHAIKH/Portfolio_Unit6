@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color:white;
+    font-size: larger;
+    }
+   h1{
+      text-decoration: underline; 
+    font-size: larger;
+      }
+   h2 {text-decoration: underline; }
+   a{
+       color: orange;
+   }
